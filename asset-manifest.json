@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactTest-BrowserRouterTest/static/css/main.073c9b0a.css",
+    "main.js": "/ReactTest-BrowserRouterTest/static/js/main.5c5258fd.js",
+    "static/js/787.eb49b70f.chunk.js": "/ReactTest-BrowserRouterTest/static/js/787.eb49b70f.chunk.js",
+    "static/media/logo.svg": "/ReactTest-BrowserRouterTest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ReactTest-BrowserRouterTest/index.html",
+    "main.073c9b0a.css.map": "/ReactTest-BrowserRouterTest/static/css/main.073c9b0a.css.map",
+    "main.5c5258fd.js.map": "/ReactTest-BrowserRouterTest/static/js/main.5c5258fd.js.map",
+    "787.eb49b70f.chunk.js.map": "/ReactTest-BrowserRouterTest/static/js/787.eb49b70f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5c5258fd.js"
+  ]
+}
